@@ -1,0 +1,61 @@
+﻿生成启动时间为 2013/6/18 13:26:40。
+     1>项目“G:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\网格简化3.0.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\网格简化3.0.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\C++\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mesh.cpp
+         mesh.cpp
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(37): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(52): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(70): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(75): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(85): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(87): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(97): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(99): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(110): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(430): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(444): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(445): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(446): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(529): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(538): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(548): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\mesh.cpp(575): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\C++\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\Debug\网格简化3.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\网格简化3.0.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\Debug\网格简化3.0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\Debug\网格简化3.0.lib" /MACHINE:X86 "Debug\网格简化3.0.exe.embed.manifest.res"
+         Debug\line.obj
+         Debug\main.obj
+         Debug\mesh.obj
+         Debug\qmatrix.obj
+         Debug\tri_num.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\网格简化3.0.exe.embed.manifest" /manifest "Debug\网格简化3.0.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         网格简化3.0.vcxproj -> G:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\Debug\网格简化3.0.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\网格简化3.0.unsuccessfulbuild”。
+         正在对“Debug\网格简化3.0.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\2012-2013-2\计算机图形学基础\作业提交\网格简化\mesh\src\网格简化3.0\网格简化3.0\网格简化3.0.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.19
